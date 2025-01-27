@@ -15,7 +15,6 @@ This project focuses on predicting rice leaf diseases using image data. By lever
 - [Results](#results)
 - [Visualizations](#visualizations)
 - [Future Improvements](#future-improvements)
-- [License](#license)
 
 ---
 
@@ -124,7 +123,3 @@ Randomly selected test images are displayed with predicted and true labels.
 3. Implement real-time predictions using a web interface.
 4. Augment data further for better generalization.
 
----
-
-## License
-This project is licensed under the [MIT License](LICENSE).
